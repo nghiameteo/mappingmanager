@@ -18,3 +18,4 @@ for x in ["Biendonhiet_MuaDONG",
     arcpy.mapping.ExportToPDF(mxd, filepdf)
     del mxd
 
+continue 2
