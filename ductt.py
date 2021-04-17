@@ -40,3 +40,4 @@ for x in ["Bochoi_mua dong", "Bochoi_muahe", "Bochoi_muathu", "Bochoi_muaxuan", 
     mxd = arcpy.mapping.MapDocument(filemxd)
     arcpy.mapping.ExportToPDF(mxd, filepdf)
     del mxd
+print(3)
